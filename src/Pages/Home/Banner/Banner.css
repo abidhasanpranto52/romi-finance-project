@@ -1,0 +1,23 @@
+h1{
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0;
+    color: white;
+}
+h3{
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    max-width: 44.4rem;
+    color: #cecece;
+    margin-bottom: 2.8rem;
+}
+.baton button{
+    color: white;
+    text-transform: capitalize;
+}
+.box{
+    background: #191919;
+    border: 0.2px solid gray;
+    padding: 20px;
+}
