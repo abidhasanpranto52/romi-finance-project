@@ -33,7 +33,7 @@ const Navbar = () => {
               <Link>Home</Link>
             </li>
             <li>
-              <Link>Dashboard</Link>
+              <Link to='/dashboard'>Dashboard</Link>
             </li>
             <li className="dropdown">
               <Link>Parent</Link>
@@ -47,7 +47,7 @@ const Navbar = () => {
               </ul>
             </li>
             <li>
-              <Link>Earn</Link>
+              <Link to='/earn'>Earn</Link>
             </li>
             <li>
               <Link>Buy</Link>
@@ -76,7 +76,7 @@ const Navbar = () => {
             <Link>Home</Link>
           </li>
           <li>
-            <Link>Dashboard</Link>
+            <Link to='/dashboard'>Dashboard</Link>
           </li>
           <li className="dropdown">
             <Link>NFT</Link>
@@ -90,7 +90,7 @@ const Navbar = () => {
             </ul>
           </li>
           <li>
-            <Link>Earn</Link>
+            <Link to='/earn'>Earn</Link>
           </li>
           <li>
             <Link>Buy</Link>

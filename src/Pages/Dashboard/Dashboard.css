@@ -1,0 +1,15 @@
+.circle{
+    height: 200px;
+    line-height: 200px;
+}
+.TName div{
+    vertical-align: baseline;
+}
+.buton{
+    background: none;
+    border: none;
+}
+.buton:hover{
+    background: none;
+    border: 1px solid greenyellow;
+}

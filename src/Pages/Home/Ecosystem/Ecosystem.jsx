@@ -15,10 +15,10 @@ const Ecosystem = () => {
                 alt=""
               />
             </div>
-            <div className="text-3xl mt-1 ml-2">$ZOMI</div>
+            <div className="text-3xl mt-1 ml-2">$Romi</div>
           </div>
           <p className="text-lg font-semibold mt-4">
-            $ZOMI is the utility and governance token. Accrues 30% of the
+            $Romi is the utility and governance token. Accrues 30% of the
             platform's generated fees.
           </p>
           <p className="text-md mt-4">Ethereum APR: 0.00%</p>
@@ -34,12 +34,12 @@ const Ecosystem = () => {
         <div className="border rounded p-8">
           <div className="flex">
             <div>
-              <img className="w-12" src="../../../../public/zlp.png" alt="" />
+              <img className="w-12" src="../../../../public/ZLP.png" alt="" />
             </div>
-            <div className="text-3xl mt-1 ml-2">$ZLP</div>
+            <div className="text-3xl mt-1 ml-2">$RLP</div>
           </div>
           <p className="text-lg font-semibold mt-4">
-            $ZLP is the liquidity provider token. Accrues 70% of the platform's
+            $RLP is the liquidity provider token. Accrues 70% of the platform's
             generated fees.
           </p>
           <p className="text-md mt-4">Ethereum APR: 1,653,319,592.10%</p>
